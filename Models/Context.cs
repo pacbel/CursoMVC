@@ -13,6 +13,8 @@ namespace CursoMVC.Models
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"Server=.;Database=CursoMVC;Integrated Security=True");
+
         }
+
     }
 }

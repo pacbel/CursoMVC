@@ -1,4 +1,3 @@
-F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\obj\Debug\netcoreapp3.1\CursoAPI.csprojAssemblyReference.cache
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\obj\Debug\netcoreapp3.1\CursoAPI.AssemblyInfoInputs.cache
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\obj\Debug\netcoreapp3.1\CursoAPI.AssemblyInfo.cs
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\obj\Debug\netcoreapp3.1\CursoAPI.csproj.CoreCompileInputs.cache

@@ -1,6 +1,0 @@
-F:\digitalInnovationOne\workspace\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.AssemblyInfoInputs.cache
-F:\digitalInnovationOne\workspace\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.AssemblyInfo.cs
-F:\digitalInnovationOne\workspace\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.csproj.CoreCompileInputs.cache
-F:\digitalInnovationOne\workspace\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.MvcApplicationPartsAssemblyInfo.cache
-F:\digitalInnovationOne\workspace\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.RazorAssemblyInfo.cache
-F:\digitalInnovationOne\workspace\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.RazorAssemblyInfo.cs

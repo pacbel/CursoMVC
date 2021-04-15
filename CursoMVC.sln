@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoMVC", "CursoMVC.csproj", "{799D0B71-5CC9-482B-9A4A-74B3DB2F6D47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{3A5882B0-8A89-42A8-A04E-CC322BB23219}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{3A5882B0-8A89-42A8-A04E-CC322BB23219}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoTeste", "CursoTeste\CursoTeste.csproj", "{FE02EC53-07E3-42A4-A84D-55B31DABDADC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoTeste", "CursoTeste\CursoTeste.csproj", "{FE02EC53-07E3-42A4-A84D-55B31DABDADC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

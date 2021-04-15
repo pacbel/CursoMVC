@@ -5,11 +5,10 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile>F:\digitalInnovationOne\workspace\CursoAPI\CursoAPI.xml</DocumentationFile>
+    <DocumentationFile>F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\CursoAPI.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.13" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.13" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.13">
       <PrivateAssets>all</PrivateAssets>
@@ -17,10 +16,11 @@
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.1.2" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CursoMVC.csproj" />
+    <ProjectReference Include="..\CursoMVC\CursoMVC.csproj" />
   </ItemGroup>
 
 

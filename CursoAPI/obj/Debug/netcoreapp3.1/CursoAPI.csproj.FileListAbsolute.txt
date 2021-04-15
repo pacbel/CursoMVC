@@ -13,9 +13,8 @@ F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Curs
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\CursoAPI.xml
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
@@ -29,9 +28,7 @@ F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Micr
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
@@ -60,6 +57,7 @@ F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Swas
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
 F:\digitalInnovationOne\workspace\CursoMVC\CursoAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll

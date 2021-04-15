@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-04-15T14:00:30.8246161Z"
+    }
+  },
+  "parameters": {
+    "CursoMVC20210415104018.subscriptionId": {
+      "Name": "CursoMVC20210415104018.subscriptionId",
+      "Type": "subscription",
+      "Value": "eb6e8943-a146-47b4-9406-2497489f37b2"
+    },
+    "CursoMVC20210415104018.resourceName": {
+      "Name": "CursoMVC20210415104018.resourceName",
+      "Type": null,
+      "Value": "CursoMVC20210415104018"
+    },
+    "CursoMVC20210415104018.resourceGroupLocation": {
+      "Name": "CursoMVC20210415104018.resourceGroupLocation",
+      "Type": null,
+      "Value": "southcentralus"
+    },
+    "CursoMVC20210415104018.resourceGroupName": {
+      "Name": "CursoMVC20210415104018.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "CursoMVC20210415104018ResourceGroup"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "eb6e8943-a146-47b4-9406-2497489f37b2"
+    }
+  }
+}
